@@ -1,4 +1,6 @@
-# onedep-extended-sf-support-examples
+# Extended structure factor file support for OneDep
+
+onedep-extended-sf-support-examples
 Examples of improved support for mmCIF/PDBx structure factor extensions
 
 Extensions to the PDBx/mmCIF dictionary in reflection data with anisotropic diffraction limits, of unmerged reflection data, and of quality metrics for anomalous diffraction data are now supported in OneDep.
