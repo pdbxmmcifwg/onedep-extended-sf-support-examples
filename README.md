@@ -3,7 +3,7 @@
 onedep-extended-sf-support-examples
 Examples of improved support for mmCIF/PDBx structure factor extensions
 
-Extensions to the PDBx/mmCIF dictionary in reflection data with anisotropic diffraction limits, of unmerged reflection data, and of quality metrics for anomalous diffraction data are now supported in OneDep.
+Extensions to the PDBx/mmCIF dictionary for reflection data with anisotropic diffraction limits, for unmerged reflection data and for quality metrics of anomalous diffraction data are now supported in OneDep.
 
 These extensions (over 50 dictionary items in total, complete with detailed descriptions) cover three main areas:
 1.	scaled and merged reflection data that have been processed to take account of diffraction anisotropy, by providing descriptors for that anisotropy, in terms of (1) a parameter-free definition of a cut-off surface by means of a per-reflection “signal” and a threshold value for that signal, and (2) the ellipsoid providing the best fit to the resulting cut-off surface;
